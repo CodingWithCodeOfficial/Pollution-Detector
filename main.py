@@ -1,4 +1,3 @@
-
 # Earth Search STAC -> preview images -> fast TensorFlow classifier (+ visuals)
 # Requirements: tensorflow, numpy, matplotlib (no extra installs)
 # Includes: robust Grad-CAM, EarlyStopping, data augmentation, CSVLogger, auto-saved plots + final gallery
